@@ -16,7 +16,7 @@ fetches and processes subdomains for a list of domains using the `crt.sh` certif
 
 ## Usage
 
-`git clone https://github.com/Vulnpire/crt.sh-subs && cd crt.sh-subs && chmod +x crt.sh && mv ./crt.sh /usr/bin/ && cd - && rm crt.sh-subs`
+`git clone https://github.com/Vulnpire/crt.sh-subs && cd crt.sh-subs && chmod +x crt.sh && mv ./crt.sh /usr/bin/ && cd - && rm -rf crt.sh-subs`
 
 ## Prepare Your Input File
 
